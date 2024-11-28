@@ -109,6 +109,17 @@ Government of Gujarat
 
 
 
+
+
+
+
+
+
+
+
+
+
+
     3.  Platform Development:
           Dependencies: Development team, cloud infrastructure (AWS, Azure, or GCP).
           Estimated Time: 9 days
