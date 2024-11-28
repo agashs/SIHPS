@@ -104,28 +104,6 @@ Government of Gujarat
           Estimated Time: 7 days
           Estimated Cost: RS-28000 (design tools, UI/UX experts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-
     3.  Platform Development:
           Dependencies: Development team, cloud infrastructure (AWS, Azure, or GCP).
           Estimated Time: 9 days
