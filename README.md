@@ -89,6 +89,13 @@ Government of Gujarat
           ORM: Sequelize (simplifies database interactions with PostgreSQL)
   '''
 
+
+
+
+
+
+
+
 ## Dependencies
 '''
 
