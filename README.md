@@ -89,13 +89,6 @@ Government of Gujarat
           ORM: Sequelize (simplifies database interactions with PostgreSQL)
   '''
 
-
-
-
-
-
-
-
 ## Dependencies
 '''
 
@@ -110,6 +103,11 @@ Government of Gujarat
           Dependencies: Approval from stakeholders, feedback loops.
           Estimated Time: 7 days
           Estimated Cost: RS-28000 (design tools, UI/UX experts)
+
+
+
+
+
 
     3.  Platform Development:
           Dependencies: Development team, cloud infrastructure (AWS, Azure, or GCP).
