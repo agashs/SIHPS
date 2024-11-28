@@ -102,7 +102,7 @@ Government of Gujarat
           Tasks: Creating a user-friendly interface for web and mobile applications, wireframes, prototypes.
           Dependencies: Approval from stakeholders, feedback loops.
           Estimated Time: 7 days
-          Estimated Cost: RS-28000 (design tools, UI/UX experts)
+          Estimated Cost: RS-28000 (design tools, UI/UX experts
 
 
 
@@ -119,6 +119,12 @@ Government of Gujarat
 
 
 
+
+
+
+
+
+          
 
     3.  Platform Development:
           Dependencies: Development team, cloud infrastructure (AWS, Azure, or GCP).
