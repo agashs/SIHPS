@@ -40,6 +40,8 @@ Government of Gujarat
 
 '''
 ## Use Cases
+
+![image](https://github.com/1808charitha/SIHPS/assets/132996838/42fd63f0-26f4-451f-a7c8-e2ec413df8b5)
 '''
 
     1.Alumni Registration and Profile Management:
