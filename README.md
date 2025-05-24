@@ -1,7 +1,6 @@
 # Smart India Hackathon Workshop
-# Date: 28.11.2024
-## Register Number: 24901212
-## Name: VAITHESWARAN N
+## Register Number: 212224040014
+## Name: AGASH S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
